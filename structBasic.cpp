@@ -1,3 +1,5 @@
+// lawaTeko, Kairatu
+// struktur sederhana, contoh struktur mengenai Makanan Daerah
 #include <iostream>
 #include <string>
 using namespace std;
