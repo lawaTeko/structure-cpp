@@ -1,3 +1,5 @@
+// lawaTeko, Kairatu
+// menggunakan VOID
 #include <iostream>
 using namespace std;
 
