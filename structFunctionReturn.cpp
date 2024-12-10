@@ -1,3 +1,5 @@
+// lawaTeko, Kairatu
+// struktur implementasi menggunakan fungsi
 #include <iostream>
 using namespace std;
 
